@@ -1,7 +1,7 @@
 <template>
     <section class="w-full grid grid-cols-1 lg:grid lg:h-screen lg:grid-cols-2 bg-neutral-800 lg:place-items-center">
 
-        <div class="lg:h-full h-screen grid pl-9 pt-16">
+        <div class="lg:h-full h-screen grid pl-7 pt-16">
             <div class="h-full">
                 <div class="w-3/4 h-3/5 bg-gray-800 rounded-2xl" data-aos="zoom-in">
 
