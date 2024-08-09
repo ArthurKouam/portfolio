@@ -9,9 +9,7 @@
                 <div class="pt-5 w-3/4 text-justify" data-aos="slide-up">
                     <h2 class="text-2xl text-white font-bold">ABOUT ME</h2>
                     <p class="pt-3 text-white">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, similique debitis ipsa atque, 
-                        libero totam ex blanditiis quis cumque temporibus enim dicta, alias laboriosam odio soluta? 
-                        Dolorum quas ut accusantium!
+                        Passionate about web development, I am a junior developer with a strong interest in front-end technologies like Javascript and Vue.js. I have already completed several projects, including a mobile application developed with Quasar. Curious and always learning, I continuously expand my skills by exploring modern frameworks and tools. My goal is to contribute to projects that combine innovation and performance while delivering smooth and intuitive user experiences.
                     </p>
                 </div>
             </div>
@@ -20,7 +18,7 @@
         <div class="pb-5 pt-6 lg:pt-0 lg:pb-0 pl-8 lg:pl-0 lg:h-full flex items-center">
             <div class="text-white" data-aos="slide-left">
                 <h1 class="text-white text-3xl lg:text-4xl font-bold">MY BACKGROUND SCHOOL</h1>
-                <p class="mt-5"><span class="border-2 rounded-full px-3">2023...</span><span class="text-xl"></span></p>
+                <p class="mt-5"><span class="border-2 rounded-full px-3">2023...</span><span class="text-xl">Computer engineering students at IUT FV</span></p>
                 <p class="mt-5"><span class="border-2 rounded-full px-3">2023</span><span class="text-xl">Baccalauréat C in GBHS GOUACHE</span></p>
                 <p class="mt-5"><span class="border-2 rounded-full px-3">2021</span><span class="text-xl">Probatoire C in GBHS GOUACHE</span></p>
             </div>
