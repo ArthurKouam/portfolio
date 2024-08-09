@@ -6,7 +6,7 @@
                 <div class="w-3/4 lg:h-3/5 h-40v bg-gray-800 rounded-2xl" data-aos="zoom-in">
 
                 </div>
-                <div class="pt-5 pb-3 lg:w-3/4 w-full" data-aos="slide-up">
+                <div class="pt-5 pb-3 lg:w-3/4 w-full overflow-x-hidden" data-aos="slide-up">
                     <h2 class="text-2xl text-white font-bold">ABOUT ME</h2>
                     <p class="pt-3 text-white text-justify pr-3">Passionate about web development, I am a junior developer with a strong intérêt in web technologies like Javascript and Vue.js. I have already completed several projects, including a mobile application developed with Quasar. Curious and always learning, I continuously expand my skills by exploring modern frameworks and tools. My goal is to contribute to projects that combine innovation and performance while delivering smooth and intuitive user experiences.
                     </p>
