@@ -3,10 +3,10 @@
 
         <div class="lg:h-full h-screen grid pl-7 pt-16">
             <div class="h-full">
-                <div class="w-3/4 lg:h-3/5 h-8 bg-gray-800 rounded-2xl" data-aos="zoom-in">
+                <div class="w-3/4 lg:h-3/5 h-20 bg-gray-800 rounded-2xl" data-aos="zoom-in">
 
                 </div>
-                <div class="pt-5 w-3/4" data-aos="slide-up">
+                <div class="pt-5 lg:w-3/4 w-full" data-aos="slide-up">
                     <h2 class="text-2xl text-white font-bold">ABOUT ME</h2>
                     <p class="pt-3 text-white">Passionate about web development, I am a junior developer with a strong intérêt in web technologies like Javascript and Vue.js. I have already completed several projects, including a mobile application developed with Quasar. Curious and always learning, I continuously expand my skills by exploring modern frameworks and tools. My goal is to contribute to projects that combine innovation and performance while delivering smooth and intuitive user experiences.
                     </p>
