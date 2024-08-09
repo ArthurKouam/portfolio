@@ -8,7 +8,8 @@ export default {
     extend: {
       height: {
         'max-content':'max-content',
-        '150v':'150vh'
+        '150v':'150vh',
+        '40v':'40vh'
       }
     },
   },
