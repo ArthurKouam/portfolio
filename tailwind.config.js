@@ -9,7 +9,7 @@ export default {
       height: {
         'max-content':'max-content',
         '150v':'150vh',
-        '40v':'60vh'
+        '40v':'50vh'
       }
     },
   },
