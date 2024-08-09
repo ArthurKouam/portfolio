@@ -1,5 +1,5 @@
 <template>
-    <section class="w-full grid gap-2 grid-cols-1 lg:h-screen lg:grid-cols-2 bg-neutral-800 lg:place-items-center">
+    <section class="w-full lg:grid gap-2 lg:h-screen lg:grid-cols-2 bg-neutral-800 lg:place-items-center">
 
         <div class="lg:h-full h-screen grid pl-7 pt-16">
             <div class="h-full">
