@@ -37,6 +37,8 @@
     })
 </script>
 
-<style>
-
+<style scoped>
+[data-aos="slide-left"] {
+    transform: translateX(0);
+} 
 </style>
