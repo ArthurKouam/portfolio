@@ -14,7 +14,7 @@
             </div>
         </div>
 
-        <div class="pb-5 pt-6 lg:pt-0 lg:pb-0 pl-8 lg:pl-0 lg:h-full flex items-center" data-aos="slide-left">
+        <div class="pb-5 pt-6 lg:pt-0 lg:pb-0 pl-8 lg:pl-0 lg:h-full flex items-center" data-aos="slide-up">
             <div class="text-white">
                 <h1 class="text-white text-3xl lg:text-4xl font-bold">MY BACKGROUND SCHOOL</h1>
                 <p class="mt-5"><span class="border-2 rounded-full px-3">2023...</span><span class="text-xl">Computer engineering students at IUT FV</span></p>
