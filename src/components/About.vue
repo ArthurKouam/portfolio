@@ -3,7 +3,7 @@
 
         <div class="lg:h-full h-screen grid pl-7 pt-16">
             <div class="h-full">
-                <div class="w-3/4 h-3/5 bg-gray-800 rounded-2xl" data-aos="zoom-in">
+                <div class="w-3/4 lg:h-3/5 h-13 bg-gray-800 rounded-2xl" data-aos="zoom-in">
 
                 </div>
                 <div class="pt-5 w-3/4 text-justify" data-aos="slide-up">
