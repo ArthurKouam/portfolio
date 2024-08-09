@@ -38,7 +38,7 @@
 </script>
 
 <style scoped>
- body{
-    overflow-x: hidden
- } 
+ body, html {
+    overflow-x: hidden;
+}
 </style>
