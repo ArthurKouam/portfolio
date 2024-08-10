@@ -7,8 +7,8 @@
                 
                 <div class="m-1 pl-16 grid justify-center h-6" data-aos="zoom-in">
                     <span class="border-2 rounded-full px-3 w-min">2025</span><br>
-                    <p>Lorem ipsum dolor, sit amet consectetur</p><br>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit, quis. Dolores, voluptate </p>
+                    <p>Web development intern at youpi startup</p><br>
+                    <p>Youpi is a company specializing in web development, the creation of mobile applications and business systems </p>
                 </div>
                 
             </div>
