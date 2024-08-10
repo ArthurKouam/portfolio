@@ -3,10 +3,10 @@
         <h2 class="text-3xl lg:text-4xl font-bold text-center">MY RECENTS PROJECTS</h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-6 w-full place-items-center pt-8 gap-4">
             <div class="h-60 w-2/3 lg:col-span-2 rounded-lg bg-neutral-800 p-5" data-aos="slide-up" data-aos-duration="400">
-                <h3>Todo list</h3><br>
+                <h3><a href="https://to-do-list-umber-ten.vercel.app/">Todo list</a></h3><br>
                 <p>Platforms: Web</p><br>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum quia ea asperiores nobis 
+                    A minimalist web application for task management 
                 </p>
             </div>
             <div class="h-60 w-2/3 lg:col-span-2 rounded-lg bg-neutral-800 p-5" data-aos="slide-up" data-aos-duration="600">
@@ -17,10 +17,10 @@
                 </p>
             </div>
             <div class="h-60 w-2/3 lg:col-span-2 rounded-lg bg-neutral-800 p-5" data-aos="slide-up" data-aos-duration="800">
-                <h3><a href="fasttap.vercel.app">Fasttap</a></h3><br>
+                <h3><a href="https://www.fasttap.vercel.app">Fasttap</a></h3><br>
                 <p>Platforms: Web</p><br>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum quia ea asperiores nobis
+                    A tool to measure your keyboard speed
                 </p> 
             </div>
             <div class="h-60 w-2/3 lg:col-span-2 hidden lg:block rounded-lg bg-neutral-800 p-5" data-aos="slide-up" data-aos-duration="400">
