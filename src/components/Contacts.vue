@@ -4,7 +4,7 @@
         <UserRound v-if="!showIcons"></UserRound>
         <X v-else></X>
     </div>
-    <div class="bg-green-200 rounded-full p-2 fixed bottom-18 right-2 lg:right-4 lg:bottom-20 cursor-pointer anim" v-if="showIcons">
+    <div class="bg-green-200 rounded-full p-2 fixed bottom-16 right-2 lg:right-4 lg:bottom-20 cursor-pointer anim" v-if="showIcons">
         <a href="mailto:gkouamarthur@gmail.com"><Mail></Mail></a>
     </div>
     
