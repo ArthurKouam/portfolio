@@ -7,8 +7,8 @@
                 
                 <div class="m-1 pl-16 grid justify-center h-6" data-aos="zoom-in">
                     <span class="border-2 rounded-full px-3 w-min">2024</span><br>
-                    <p>Web development intern at youpi startup</p><br>
-                    <p>Youpi is a company specializing in web development, the creation of mobile applications and business systems </p>
+                    <p>Web development intern at YOUPI STARTUP</p><br>
+                    <p>YOUPI STARTUP is a company specializing in web development, the creation of mobile applications and business systems </p>
                 </div>
                 
             </div>
