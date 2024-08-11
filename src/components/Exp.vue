@@ -6,7 +6,7 @@
             <div class=" grid grid-cols-1 grid-rows-1 w-full h-5/6 pt-8">
                 
                 <div class="m-1 pl-16 grid justify-center h-6" data-aos="zoom-in">
-                    <span class="border-2 rounded-full px-3 w-min">2025</span><br>
+                    <span class="border-2 rounded-full px-3 w-min">2024</span><br>
                     <p>Web development intern at youpi startup</p><br>
                     <p>Youpi is a company specializing in web development, the creation of mobile applications and business systems </p>
                 </div>
