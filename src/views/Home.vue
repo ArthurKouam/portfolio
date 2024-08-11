@@ -1,6 +1,6 @@
 <template>
 
-    <section class="w-full h-screen text-white">
+    <section class="w-full h-screen text-white" translate="no">
         <img src="../assets/image/natri.jpg" alt="" class="w-full h-full object-cover object-center grayscale">
         <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-center bg-neutral-800 w-11/12 sm:w-2/5 h-1/3 grid place-items-center rounded-xl shadow-2xl shadow-neutral-800">
             <div>
