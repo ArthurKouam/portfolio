@@ -32,29 +32,41 @@
         });
     })
     
-    const text = "Web Developper";
-    const time = window.setInterval(Mytext, 150)
+    const text = ["Web Developper", "Mobile Developper"];
+    let time = window.setInterval(Mytext, 150)
+    let timedel;
+    let e = 0;
     let i = 0;
     function Mytext(){
-        document.getElementById("text").innerHTML = text.substring(0, i) + '<span class="anim text-2xl">|<span>';
+        document.getElementById("text").innerHTML = text[e].substring(0, i) + '<span class="animText text-2xl">|<span>';
         i++;
-        if (i === text.length + 1) {
+        if (i === text[e].length + 1) {
                 clearInterval(time)
+                timedel = setInterval(DeleteText, 100);
+        }
     }
 
-        }
+    function DeleteText(){
+        document.getElementById("text").innerHTML = text[e].substring(0, i) + '<span class="animText text-2xl">|<span>';
+            i--;
+            if (i === -1) {
+                clearInterval(timedel)
+                e === 0 ? e = 1 : e = 0;
+                time = window.setInterval(Mytext, 150);
+            }
+    }
         
     
 </script>
 
-<style>
-    .anim{
+<style scoped>
+    .animText{
         animation: myanim 300ms ease infinite;
     }
 
     @keyframes myanim {
         75%, 100% {
-            transform: scale(2);
+            transform: scale(55);
             opacity: 0;
         }
     }
