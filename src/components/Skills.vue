@@ -17,7 +17,7 @@
                 </p>
             </div>
             <div class="h-60 w-2/3 lg:col-span-2 rounded-lg bg-neutral-800 p-5" data-aos="slide-up" data-aos-duration="800">
-                <h3><a href="https://www.fasttap.vercel.app">Fasttap</a></h3><br>
+                <h3><a href="https://fasttap.vercel.app/">Fasttap</a></h3><br>
                 <p>Platforms: Web</p><br>
                 <p>
                     A tool to measure your keyboard speed
