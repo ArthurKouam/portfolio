@@ -1,5 +1,5 @@
 <template>
-    <section class="w-full pb-4 relative text-white bg-gray-800 pt-7">
+    <section class="w-full pb-4 relative text-white bg-gray-800 pt-7 *:overflow-hidden">
         <h2 class="text-3xl lg:text-4xl font-bold text-center">MY RECENTS PROJECTS</h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-6 w-full place-items-center pt-8 gap-4">
             <div class="h-60 w-2/3 lg:col-span-2 rounded-lg bg-neutral-800 p-5" data-aos="slide-up" data-aos-duration="400">

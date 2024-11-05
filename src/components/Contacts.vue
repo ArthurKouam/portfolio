@@ -1,6 +1,6 @@
 <template>
 
-    <div class="bg-green-200 rounded-full p-3 fixed bottom-2 right-2 lg:right-4 lg:bottom-4 cursor-pointer" @click="showIcons = !showIcons">
+    <div class="bg-green-200 rounded-full p-3 fixed bottom-2 right-2 lg:right-4 lg:bottom-4 cursor-pointer *:overflow-hidden" @click="showIcons = !showIcons">
         <UserRound v-if="!showIcons"></UserRound>
         <X v-else></X>
     </div>
@@ -14,8 +14,7 @@
 <script setup>
     import { UserRound } from 'lucide-vue-next';
     import { Mail } from 'lucide-vue-next';
-    import { Phone } from 'lucide-vue-next';
-    import { X } from 'lucide-vue-next';
+    import { X } from 'lucide-vue-next'
     import { ref } from 'vue';
     var showIcons = ref(false);
 </script>
