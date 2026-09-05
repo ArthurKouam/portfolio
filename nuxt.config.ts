@@ -9,6 +9,11 @@ export default defineNuxtConfig({
       tailwindcss(),
     ],
   },
+
+  site: {
+    url: 'https://arthurcode.me'
+  },
+
   css: ['~/assets/css/main.css'],  
   compatibilityDate: '2024-04-03',
 })
