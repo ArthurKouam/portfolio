@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+
+@font-face{
+  font-family: 'jetbrains';
+  src: url('/assets/font/JetBrainsMono.ttf');
+}
+
+@theme{
+
+  --default-font-family: 'jetbrains';
+
+  --color-dark-bg: #0C0C0C;
+  --color-light-bg: #fdffff;
+
+  --color-dark-text: oklch(87.1% .006 286.286);
+  --color-light-text: #121619;
+}
